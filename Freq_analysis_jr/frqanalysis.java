@@ -1,3 +1,5 @@
+package Freq_analysis_jr;
+
 import java.util.Map;
 
 public class frqanalysis {
