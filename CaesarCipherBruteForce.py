@@ -20,6 +20,6 @@ def crack_caesar(cipher_text):
 
 
 if __name__ == '__main__':
-    encrypted = 'VJKUBKUBCBOGUUCIG'
+    encrypted = input("[-] Provide the encrypted text ")
     crack_caesar(encrypted)
 

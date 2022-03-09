@@ -39,7 +39,7 @@ def caesar_decrypt(cipher_text):
 
 if __name__ == '__main__':
 
-    m = 'Welcome to my Udemy course!'
+    m = input("[-] Provide the text to encrypt ")
     encrypted = caesar_encrypt(m)
     print(encrypted)
     print(caesar_decrypt(encrypted))
