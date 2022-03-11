@@ -1,5 +1,4 @@
 
-
 import sys, pyperclip, cryptomath, random
 SYMBOLS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890 !?.'
 
