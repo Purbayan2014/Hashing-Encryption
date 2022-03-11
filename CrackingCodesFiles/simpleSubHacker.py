@@ -1,5 +1,4 @@
-# Simple Substitution Cipher Hacker
-# https://www.nostarch.com/crackingcodes (BSD Licensed)
+
 
 import re, copy, pyperclip, simpleSubCipher, wordPatterns, makeWordPatterns
 

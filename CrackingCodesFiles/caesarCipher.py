@@ -1,5 +1,4 @@
-# Caesar Cipher
-# https://www.nostarch.com/crackingcodes (BSD Licensed)
+
 
 import pyperclip
 

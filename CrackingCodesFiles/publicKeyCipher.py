@@ -1,5 +1,4 @@
-# Public Key Cipher
-# https://www.nostarch.com/crackingcodes/ (BSD Licensed)
+
 
 import sys, math
 

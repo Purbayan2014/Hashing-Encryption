@@ -1,5 +1,4 @@
-# Affine Cipher Hacker
-# https://www.nostarch.com/crackingcodes (BSD Licensed)
+
 
 import pyperclip, affineCipher, detectEnglish, cryptomath
 

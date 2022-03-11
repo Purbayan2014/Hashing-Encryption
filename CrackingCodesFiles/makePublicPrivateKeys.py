@@ -1,5 +1,4 @@
-# Public Key Generator
-# https://www.nostarch.com/crackingcodes/ (BSD Licensed)
+
 
 import random, sys, os, primeNum, cryptomath
 

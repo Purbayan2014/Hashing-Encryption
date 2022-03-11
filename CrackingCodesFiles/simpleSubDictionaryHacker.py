@@ -1,4 +1,4 @@
-# Simple Substitution Dictionary Hacker, https://inventwithpython.com/hacking (BSD Licensed)
+
 import pyperclip, simpleSubKeyword, detectEnglish
 
 SILENT_MODE = False

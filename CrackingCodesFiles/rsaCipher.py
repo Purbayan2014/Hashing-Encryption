@@ -1,5 +1,4 @@
-# RSA Cipher
-# http://inventwithpython.com/hacking (BSD Licensed)
+
 
 import sys
 

@@ -1,5 +1,4 @@
-# Simple Substitution Cipher
-# https://www.nostarch.com/crackingcodes (BSD Licensed)
+
 
 import pyperclip, sys, random
 

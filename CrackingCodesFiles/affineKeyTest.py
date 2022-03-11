@@ -1,5 +1,4 @@
-# This program proves that the keyspace of the affine cipher is limited
-# to less than len(SYMBOLS) ^ 2.
+
 
 import affineCipher, cryptomath
 

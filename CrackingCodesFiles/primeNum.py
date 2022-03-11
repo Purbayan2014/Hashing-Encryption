@@ -1,5 +1,4 @@
-# Prime Number Sieve
-# https://www.nostarch.com/crackingcodes/ (BSD Licensed)
+
 
 import math, random
 

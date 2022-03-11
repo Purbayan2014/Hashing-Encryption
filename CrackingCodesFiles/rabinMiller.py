@@ -1,5 +1,3 @@
-# Primality Testing with the Rabin-Miller Algorithm
-# https://www.nostarch.com/crackingcodes (BSD Licensed)
 
 import random
 

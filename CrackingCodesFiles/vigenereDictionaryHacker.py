@@ -1,5 +1,4 @@
-# Vigenere Cipher Dictionary Hacker
-# https://www.nostarch.com/crackingcodes/ (BSD Licensed)
+
 
 import detectEnglish, vigenereCipher, pyperclip
 

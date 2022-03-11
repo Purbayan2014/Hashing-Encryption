@@ -1,5 +1,4 @@
-# Frequency Finder
-# https://www.nostarch.com/crackingcodes (BSD Licensed)
+
 
 ETAOIN = 'ETAOINSHRDLCUMWFGYPBVKJXQZ'
 LETTERS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'

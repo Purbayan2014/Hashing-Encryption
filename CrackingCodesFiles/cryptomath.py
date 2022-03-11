@@ -1,5 +1,4 @@
-# Cryptomath Module
-# https://www.nostarch.com/crackingcodes (BSD Licensed)
+
 
 def gcd(a, b):
     # Return the Greatest Common Divisor of a and b using Euclid's Algorithm

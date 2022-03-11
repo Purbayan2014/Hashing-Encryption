@@ -1,12 +1,11 @@
-# Vigenere Cipher (Polyalphabetic Substitution Cipher)
-# https://www.nostarch.com/crackingcodes (BSD Licensed)
+
 
 import pyperclip
 
 LETTERS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 
 def main():
-    # This text can be copy/pasted from https://invpy.com/vigenereCipher.py:
+
     myMessage = """Alan Mathison Turing was a British mathematician, logician, cryptanalyst, and computer scientist."""
     myKey = 'ASIMOV'
     myMode = 'encrypt' # Set to either 'encrypt' or 'decrypt'.
