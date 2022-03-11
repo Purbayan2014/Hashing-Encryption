@@ -1,5 +1,3 @@
-# Affine Cipher
-# https://www.nostarch.com/crackingcodes (BSD Licensed)
 
 import sys, pyperclip, cryptomath, random
 SYMBOLS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890 !?.'
