@@ -1,32 +1,16 @@
 package com.globalsoftwaresupport;
 
-import java.io.*;
-
 public class App {
 
-	public static void main(String[] args) throws IOException {
+	public static void main(String[] args) {
 		
-
-		try {
-			
+		String text = "My name is Kevin and I am a working as a software engineer at a multinational company and my main interests are algorithms and machine learning";
 	
-				System.out.print("[-] Provide the text : ");
-				String text = new BufferedReader(new InputStreamReader(System.in)).readLine();
-
-				System.out.print("[-] Provide the key value : ");
-				int key = Integer.parseInt(new BufferedReader(new InputStreamReader(System.in)).readLine());
-
-			CaesarCipher cipher = new CaesarCipher();
+		CaesarCipher cipher = new CaesarCipher();
 		
-			String cipherText = cipher.encrypt(text, key);
-			System.out.println(cipherText);
-			
-			System.out.println(cipher.decrypt(cipherText, key));
-
-		} catch (Exception e) {
-			System.out.println("[-] Exception has been caught !!!")
-		}
+		String cipherText = cipher.encrypt(text, 10);
+		System.out.println(cipherText);
 		
-
+		System.out.println(cipher.decrypt(cipherText, 10));
 	}
 }

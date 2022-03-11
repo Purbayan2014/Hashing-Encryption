@@ -53,5 +53,5 @@ def is_text_english(text):
 if __name__ == '__main__':
 
     get_data()
-    plain_text = input('[-] Provide the text for the language to detect ')
+    plain_text = 'My name is Balazs Holczer from Budapest, Hungary. I am working as a software engineer software engineer software engineer at the moment'
     print(is_text_english(plain_text))

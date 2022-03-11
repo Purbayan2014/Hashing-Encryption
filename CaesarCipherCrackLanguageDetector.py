@@ -71,5 +71,5 @@ def caesar_crack(cipher_text):
 
 if __name__ == "__main__":
     get_data()
-    encrypted = input("[-] Provide the text to detect the language ")
+    encrypted = 'VJKUBKUBCBOGUUCIG'
     caesar_crack(encrypted)

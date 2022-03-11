@@ -1,13 +1,10 @@
 package com.globalsoftwaresupport;
 
-import java.io.*;
-
 public class App {
 
 	public static void main(String[] args) {
 		
-		System.out.print("[-] Provide the text : ");
-				String text = new BufferedReader(new InputStreamReader(System.in)).readLine();
+		String text = "My name is Kevin and I like software engineering!";
 		
 		FrequencyAnalysis analysis = new FrequencyAnalysis();
 		analysis.showFrequencies(text);

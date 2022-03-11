@@ -53,5 +53,4 @@ def vigenere_decrypt(cipher_text, key):
 if __name__ == '__main__':
     text = 'CRYPTOGRAPHY IS QUITE IMPORTANT IN CRYPTOCURRENCIES'
     cipher = vigenere_encrypt(text, 'ANIMAL')
-    print(cipher)
     print(vigenere_decrypt(cipher, 'ANIMAL'))
